@@ -1,0 +1,40 @@
+/* comment*/
+.BGC{
+	background-color: red;
+
+	width: 500px;
+	height: 500px;
+}
+	.colr{
+	background-color: rgb(11,22,33);
+	width: 500px;
+	height: 500px;
+
+}
+/*div{
+	background-image: url(../images/bird.jpg);
+}*/
+.header{
+	height: 100px;
+	background-color: red;
+}
+.wrapper{
+	border: 10px solid black;
+	overflow: hidden;
+}
+.contact{
+	height: 150px;
+	background-color: blue;
+	width: 60%;
+	float: left;
+}
+.blog{
+	height: 150px;
+	background-color: orange;
+	width: 35%;
+	float: right;
+}
+.footer{
+	height: 100px;
+	background-color: red;
+}
